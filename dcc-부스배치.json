@@ -1,20 +1,148 @@
 {
-  "v": 1,
-  "w": 131,
-  "d": 76,
-  "target": 10150.74,
-  "activeColor": "#2d6eaa",
-  "showHalls": true,
-  "seq": 5,
-  "pSeq": 0,
-  "autoNo": 1,
-  "booths": [],
-  "features": [
-    { "id": 1, "type": "hydrant", "x": 9,   "y": 37, "w": 1, "h": 1 },
-    { "id": 2, "type": "hydrant", "x": 34,  "y": 37, "w": 1, "h": 1 },
-    { "id": 3, "type": "hydrant", "x": 58,  "y": 37, "w": 1, "h": 1 },
-    { "id": 4, "type": "hydrant", "x": 91,  "y": 37, "w": 1, "h": 1 },
-    { "id": 5, "type": "hydrant", "x": 124, "y": 37, "w": 1, "h": 1 }
-  ],
-  "participants": []
+ "v": 1,
+ "w": 131,
+ "d": 76,
+ "target": 10150.74,
+ "activeColor": "#e0912f",
+ "showHalls": true,
+ "seq": 25,
+ "pSeq": 0,
+ "autoNo": 1,
+ "booths": [
+  {
+   "id": 17,
+   "x": 60,
+   "y": 52,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 18,
+   "x": 63,
+   "y": 52,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 21,
+   "x": 60,
+   "y": 46,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 22,
+   "x": 63,
+   "y": 46,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 23,
+   "x": 60,
+   "y": 43,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 24,
+   "x": 63,
+   "y": 43,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 19,
+   "x": 60,
+   "y": 49,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  },
+  {
+   "id": 20,
+   "x": 63,
+   "y": 49,
+   "num": "C3",
+   "sn": null,
+   "name": "에이블게임",
+   "color": "#d8542f"
+  }
+ ],
+ "features": [
+  {
+   "id": 1,
+   "type": "hydrant",
+   "x": 9,
+   "y": 37,
+   "w": 1,
+   "h": 1
+  },
+  {
+   "id": 2,
+   "type": "hydrant",
+   "x": 34,
+   "y": 37,
+   "w": 1,
+   "h": 1
+  },
+  {
+   "id": 3,
+   "type": "hydrant",
+   "x": 58,
+   "y": 37,
+   "w": 1,
+   "h": 1
+  },
+  {
+   "id": 4,
+   "type": "hydrant",
+   "x": 91,
+   "y": 37,
+   "w": 1,
+   "h": 1
+  },
+  {
+   "id": 5,
+   "type": "hydrant",
+   "x": 124,
+   "y": 37,
+   "w": 1,
+   "h": 1
+  },
+  {
+   "id": 6,
+   "type": "aux",
+   "x": 115,
+   "y": 64,
+   "w": 11,
+   "h": 8,
+   "name": "탈의실",
+   "color": "#2d6eaa"
+  },
+  {
+   "id": 25,
+   "type": "aux",
+   "x": 0,
+   "y": 51,
+   "w": 21,
+   "h": 25,
+   "name": "기능성게임존",
+   "color": "#e0912f"
+  }
+ ],
+ "participants": []
 }
