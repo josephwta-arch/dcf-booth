@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "w": 131,
+  "d": 76,
+  "target": 10150.74,
+  "activeColor": "#2d6eaa",
+  "showHalls": true,
+  "seq": 5,
+  "pSeq": 0,
+  "autoNo": 1,
+  "booths": [],
+  "features": [
+    { "id": 1, "type": "hydrant", "x": 9,   "y": 37, "w": 1, "h": 1 },
+    { "id": 2, "type": "hydrant", "x": 34,  "y": 37, "w": 1, "h": 1 },
+    { "id": 3, "type": "hydrant", "x": 58,  "y": 37, "w": 1, "h": 1 },
+    { "id": 4, "type": "hydrant", "x": 91,  "y": 37, "w": 1, "h": 1 },
+    { "id": 5, "type": "hydrant", "x": 124, "y": 37, "w": 1, "h": 1 }
+  ],
+  "participants": []
+}
